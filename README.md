@@ -11,8 +11,11 @@ Delete Tasks: Click the "Delete" button next to the task you want to remove. The
 Task Prioritization: Tasks are color-coded based on their priority:
 
 High priority tasks are displayed in red.
+
 Normal priority tasks are displayed in blue.
+
 Low priority tasks are displayed in green.
+
 Task Completion: Click a task's title to mark it as completed. It will be displayed with a strikethrough effect.
 
 Efficient Updates: This app utilizes a memoized function that returns the cached value when the same arguments are passed. This means that when you interact with your tasks, only the necessary updates are performed, resulting in a more efficient and smoother user experience.
@@ -25,6 +28,7 @@ Clone this repository to your local machine:
 bash
 Copy code
 git clone https://github.com/yourusername/todo-list-app.git
+
 Open the project in your favorite code editor.
 
 Run the index.html file in your web browser.
