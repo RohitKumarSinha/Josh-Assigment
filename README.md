@@ -1,6 +1,5 @@
 # Josh-Assignment
-Awesome TODO List App
-Welcome to the Awesome TODO List App, a simple and elegant way to manage your tasks and stay organized. This app is built using HTML, JavaScript, and leverages the power of Bootstrap for a smooth and stylish user interface. CSS is used to enhance the user experience by providing a beautiful background image for the website. Additionally, the app utilizes local storage to ensure that your task data remains intact and doesn't fade away, even when you reload the page.
+Welcome to the Awesome TODO List App, a simple and elegant way to manage your tasks and stay organized. This app is built using HTML,JavaScript, and leverages the power of Bootstrap for a smooth and stylish user interface. CSS is used to enhance the user experience by providing a beautiful background image for the website. Additionally, the app utilizes local storage to ensure that your task data remains intact and doesn't fade away, even when you reload the page.
 
 # Features
 Add New Tasks: Enter a task title and select the priority level from the dropdown. Click the "Add Task" button to add it to your list.
