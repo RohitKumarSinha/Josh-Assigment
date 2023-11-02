@@ -1,8 +1,8 @@
-# Josh-Assigment
+# Josh-Assignment
 Awesome TODO List App
 Welcome to the Awesome TODO List App, a simple and elegant way to manage your tasks and stay organized. This app is built using HTML, JavaScript, and leverages the power of Bootstrap for a smooth and stylish user interface. CSS is used to enhance the user experience by providing a beautiful background image for the website. Additionally, the app utilizes local storage to ensure that your task data remains intact and doesn't fade away, even when you reload the page.
 
-Features
+# Features
 Add New Tasks: Enter a task title and select the priority level from the dropdown. Click the "Add Task" button to add it to your list.
 
 Edit Existing Tasks: Click the "Edit" button next to the task you want to edit. Make your changes and click the "Add Task" button to save your edits.
@@ -20,7 +20,7 @@ Efficient Updates: This app utilizes a memoized function that returns the cached
 
 Private Counter: The app also uses closures to create a private counter. This counter keeps track of the total number of tasks, and it's encapsulated to ensure data privacy. You can see the total number of tasks in the console.
 
-Usage
+# Usage
 Clone this repository to your local machine:
 
 bash
